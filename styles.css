@@ -6,7 +6,12 @@
   color: #124076;
 }
 
-
+.index-header-1{
+  text-align: center;
+  background-color: #FBF3D5;
+  margin-top: 5%;
+  padding: 50px 80px;
+}
 body
 {
   color: #5D6063;
